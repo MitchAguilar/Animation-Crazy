@@ -1,2 +1,10 @@
 # Animation-Crazy
-Animation with scsc and html
+>Animation with scss and html
+
+<img src="img/Mitch Aguilar.jpg">
+
+## [Documentation]
+
+
+### License
+MIT - <http://www.opensource.org/licenses/mit-license.php>
